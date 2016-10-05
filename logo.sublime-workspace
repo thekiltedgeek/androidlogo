@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"l",
+				"link	Tag"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
 				"in",
 				"input	Tag"
 			]
@@ -15,7 +23,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 106,
+				"buffer_size": 463,
 				"line_ending": "Unix",
 				"name": "<!DOCTYPE html>"
 			}
@@ -24,7 +32,7 @@
 			"file": "css/logo.css",
 			"settings":
 			{
-				"buffer_size": 20,
+				"buffer_size": 1064,
 				"line_ending": "Unix",
 				"name": "/*Android Logo CSS*/"
 			}
@@ -101,15 +109,15 @@
 					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 106,
+						"buffer_size": 463,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								89,
-								89
+								132,
+								132
 							]
 						],
 						"settings":
@@ -128,15 +136,15 @@
 					"file": "css/logo.css",
 					"settings":
 					{
-						"buffer_size": 20,
+						"buffer_size": 1064,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								20,
-								20
+								104,
+								104
 							]
 						],
 						"settings":
@@ -145,7 +153,7 @@
 							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 45.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
