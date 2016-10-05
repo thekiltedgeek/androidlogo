@@ -92,3 +92,15 @@ div div{background: #a4ca39; position: relative;}
 .r_leg{
 	right: 45px;
 }
+
+.head:hover{
+	-transform: rotate(5deg) translate(-4px, -8px);
+}
+
+.l_arm:hover{
+	-transform: rotate(15deg) translate(-14px, 0);
+}
+
+.r_arm:hover{
+	-transform: rotate(-30deg) translate(30px,0);
+}
